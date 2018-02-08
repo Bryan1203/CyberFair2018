@@ -1,0 +1,194 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1518056980726">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-__.css" crc="4186211619" ref="interview:questionnaire:pack:臺灣動物現況:reflection"/>
+    <file name="master_intro.css" crc="3785582219" ref="project-overview:index:project-elements:contrubution:bibliography"/>
+    <file name="master_b-__.css" crc="526584958" ref="project-website"/>
+    <file name="project-overview.css" crc="3983256954" ref="project-overview"/>
+    <file name="project-website.css" crc="5712939" ref="project-website"/>
+    <file name="interview.css" crc="245118626" ref="interview"/>
+    <file name="index.css" crc="262239096" ref="index"/>
+    <file name="questionnaire.css" crc="245118626" ref="questionnaire"/>
+    <file name="pack.css" crc="4065683080" ref="pack"/>
+    <file name="______.css" crc="245118626" ref="臺灣動物現況"/>
+    <file name="project-elements.css" crc="3983256954" ref="project-elements"/>
+    <file name="contrubution.css" crc="3983256954" ref="contrubution"/>
+    <file name="bibliography.css" crc="3983256954" ref="bibliography"/>
+    <file name="reflection.css" crc="245118626" ref="reflection"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="museutils.js" crc="3803043152" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="whatinput.js" crc="86476730" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="museconfig.js" crc="4153641093" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="jquery.watch.js" crc="99325471" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="webpro.js" crc="242022427" ref="project-website:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="project-website:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="project-website:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="touchswipe.js" crc="4066113679" ref="project-website:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="html5shiv.js" crc="4241844378" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="require.js" crc="4157109226" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="pack"/>
+  </folder>
+  <folder name="images">
+    <file name="8q6a7955.jpg" crc="4073494154" seo="true" ref="project-website">
+      <caption webpage="project-website" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography"/>
+    <file name="8q6a7981.jpg" crc="518452648" seo="true" ref="project-website">
+      <caption webpage="project-website" alt=""/>
+    </file>
+    <file name="8q6a8029.jpg" crc="362793995" seo="true" ref="project-website">
+      <caption webpage="project-website" alt=""/>
+    </file>
+    <file name="cimg0899.jpg" crc="3895340932" seo="true" ref="project-website">
+      <caption webpage="project-website" alt=""/>
+    </file>
+    <file name="cimg0907.jpg" crc="254045464" seo="true" ref="project-website">
+      <caption webpage="project-website" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="project-website:index"/>
+    <file name="the-pack-official-logo-789w.png" crc="3816962407" seo="true" ref="project-website">
+      <caption webpage="project-website" alt=""/>
+    </file>
+    <file name="u11469.png" crc="4245718655" ref="project-website"/>
+    <file name="u11469-a.png" crc="4245718655" ref="project-website"/>
+    <file name="u11451.png" crc="4229288607" ref="project-website"/>
+    <file name="u11451-a.png" crc="4229288607" ref="project-website"/>
+    <file name="u11456.png" crc="493139413" ref="project-website"/>
+    <file name="u11456-a.png" crc="493139413" ref="project-website"/>
+    <file name="u11478.png" crc="327149691" ref="project-website"/>
+    <file name="u11478-a.png" crc="327149691" ref="project-website"/>
+    <file name="u11482.png" crc="34878315" ref="project-website"/>
+    <file name="u11482-a.png" crc="34878315" ref="project-website"/>
+    <file name="u11462.png" crc="178458769" ref="project-website"/>
+    <file name="u11462-a.png" crc="178458769" ref="project-website"/>
+    <file name="black kc_logo copy 2.png" crc="233348852" seo="true" ref="project-website:pack:臺灣動物現況:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="project-website" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="臺灣動物現況" alt=""/>
+      <caption webpage="interview" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pack" alt=""/>
+      <caption webpage="questionnaire" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="reflection" alt=""/>
+    </file>
+    <file name="u10504-9.png" crc="339428347" ref="project-website"/>
+    <file name="u11914.png" crc="4245718655" ref="pack"/>
+    <file name="u11914-a.png" crc="4245718655" ref="pack"/>
+    <file name="u11923-4-a.png" crc="4229288607" ref="pack"/>
+    <file name="u11948.png" crc="493139413" ref="pack"/>
+    <file name="u11948-a.png" crc="493139413" ref="pack"/>
+    <file name="u11935.png" crc="327149691" ref="pack"/>
+    <file name="u11935-a.png" crc="327149691" ref="pack"/>
+    <file name="u11944.png" crc="34878315" ref="pack"/>
+    <file name="u11944-a.png" crc="34878315" ref="pack"/>
+    <file name="u11929.png" crc="178458769" ref="pack"/>
+    <file name="u11929-a.png" crc="178458769" ref="pack"/>
+    <file name="pack-logo121x49.jpg" crc="282531763" seo="true" ref="pack">
+      <caption webpage="pack" alt=""/>
+    </file>
+    <file name="pack1.png" crc="34976111" ref="pack">
+      <caption webpage="pack" alt=""/>
+      <caption webpage="pack" alt=""/>
+    </file>
+    <file name="pack-logo.jpg" crc="3826249156" seo="true" ref="pack:臺灣動物現況:interview:questionnaire:reflection">
+      <caption webpage="pack" alt=""/>
+      <caption webpage="questionnaire" alt=""/>
+      <caption webpage="臺灣動物現況" alt=""/>
+      <caption webpage="interview" alt=""/>
+      <caption webpage="reflection" alt=""/>
+    </file>
+    <file name="u8234.png" crc="340528159" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u8234-a.png" crc="340528159" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10218.png" crc="4054262297" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10218-a.png" crc="4054262297" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10332.png" crc="3978706139" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10332-a.png" crc="3978706139" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10304.png" crc="416351012" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10304-a.png" crc="416351012" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10276.png" crc="3790973638" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10276-a.png" crc="3790973638" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10248.png" crc="3892695086" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u10248-a.png" crc="3892695086" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="u11732-9.png" crc="339428347" ref="pack:臺灣動物現況:interview:questionnaire:reflection"/>
+    <file name="8q6a7929.jpg" crc="3849306641" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+    </file>
+    <file name="8q6a7943.jpg" crc="4180500800" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+    </file>
+    <file name="8q6a7974.jpg" crc="4019225348" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+    </file>
+    <file name="8q6a79812.jpg" crc="518452648" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+    </file>
+    <file name="8q6a7986.jpg" crc="296904464" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+    </file>
+    <file name="8q6a7998.jpg" crc="226637970" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+    </file>
+    <file name="8q6a8004.jpg" crc="4122184586" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+    </file>
+    <file name="8q6a8009.jpg" crc="161552442" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
+    </file>
+    <file name="map-marker-icon-crop-u12823.png" crc="4053807008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info-orange.png" crc="3943227800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12677-9.png" crc="208535902" ref="index:project-overview:project-elements:contrubution:bibliography"/>
+  </folder>
+  <file name="project-website.html" crc="119980840" seo="true" mt="1517975587063" redirect="true"/>
+  <file name="pack.html" crc="410652030" seo="true" mt="1517976187419" redirect="true"/>
+  <file name="臺灣動物現況.html" crc="3939056152" seo="true" mt="1517976187399" redirect="true"/>
+  <file name="interview.html" crc="4132783039" seo="true" mt="1517976187399" redirect="true"/>
+  <file name="questionnaire.html" crc="4015091846" seo="true" mt="1517976187399" redirect="true"/>
+  <file name="reflection.html" crc="4114681488" seo="true" mt="1517976187399" redirect="true"/>
+  <file name="index.html" crc="4017456899" seo="true" mt="1518054231722" redirect="true"/>
+  <file name="project-overview.html" crc="4255952176" seo="true" mt="1518054231722" redirect="true"/>
+  <file name="project-elements.html" crc="249879428" seo="true" mt="1518054231722" redirect="true"/>
+  <file name="contrubution.html" crc="4219045914" seo="true" mt="1518054231722" redirect="true"/>
+  <file name="bibliography.html" crc="3929018702" seo="true" mt="1518054231722" redirect="true"/>
+</manifest>
