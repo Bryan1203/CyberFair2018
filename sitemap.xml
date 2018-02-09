@@ -40,57 +40,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/pack.html</loc>
-    <lastmod>2018-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/pack-logo121x49.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://test.com/%E8%87%BA%E7%81%A3%E5%8B%95%E7%89%A9%E7%8F%BE%E6%B3%81.html</loc>
-    <lastmod>2018-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://test.com/interview.html</loc>
-    <lastmod>2018-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://test.com/questionnaire.html</loc>
-    <lastmod>2018-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://test.com/project-website.html</loc>
     <lastmod>2018-02-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,6 +67,60 @@
     </image:image>
   </url>
   <url>
+    <loc>http://test.com/pack.html</loc>
+    <lastmod>2018-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pack-logo121x49.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/%E8%87%BA%E7%81%A3%E5%8B%95%E7%89%A9%E7%8F%BE%E6%B3%81.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/8q6a7954.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/interview.html</loc>
+    <lastmod>2018-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/questionnaire.html</loc>
+    <lastmod>2018-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://test.com/reflection.html</loc>
     <lastmod>2018-02-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -130,7 +133,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/project-overview.html</loc>
+    <loc>http://test.com/project-elements.html</loc>
     <lastmod>2018-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -163,7 +166,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/project-elements.html</loc>
+    <loc>http://test.com/project-overview.html</loc>
     <lastmod>2018-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -260,5 +263,11 @@
     <image:image>
       <image:loc>http://test.com/images/8q6a8009.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/assets/%E7%B6%B2%E7%95%8C%E5%8D%9A%E8%A6%BD%E6%9C%83.docx</loc>
+    <lastmod>2018-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
