@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1520563997404">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1520564308513">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_intro.css" crc="13889784" ref="project-overview:contrubution:bibliography:project-elements:index"/>
+    <file name="master_intro.css" crc="278365013" ref="project-overview:contrubution:bibliography:project-elements:index"/>
     <file name="master_a-__.css" crc="4041537717" ref="reflection:pack:questionnaire:interview:animal-welfare-and-protection"/>
     <file name="master_b-__.css" crc="4087252908" ref="project-website"/>
     <file name="reflection.css" crc="4196292368" ref="reflection"/>
-    <file name="project-overview.css" crc="165507682" ref="project-overview"/>
+    <file name="project-overview.css" crc="3797454517" ref="project-overview"/>
     <file name="pack.css" crc="4242240027" ref="pack"/>
-    <file name="contrubution.css" crc="4159141487" ref="contrubution"/>
-    <file name="bibliography.css" crc="4287951500" ref="bibliography"/>
+    <file name="contrubution.css" crc="405398386" ref="contrubution"/>
+    <file name="bibliography.css" crc="4235436494" ref="bibliography"/>
     <file name="questionnaire.css" crc="342457564" ref="questionnaire"/>
-    <file name="project-elements.css" crc="168122989" ref="project-elements"/>
-    <file name="index.css" crc="3943751919" ref="index"/>
+    <file name="project-elements.css" crc="4111788127" ref="project-elements"/>
+    <file name="index.css" crc="3908110170" ref="index"/>
     <file name="project-website.css" crc="238098483" ref="project-website"/>
     <file name="interview.css" crc="4196292368" ref="interview"/>
     <file name="animal-welfare-and-protection.css" crc="307579863" ref="animal-welfare-and-protection"/>
@@ -50,14 +50,19 @@
     <file name="8q6a8029.jpg" crc="362793995" seo="true" ref="project-website">
       <caption webpage="project-website" alt=""/>
     </file>
-    <file name="cimg0899.jpg" crc="3895340932" ref="project-website" seo="true">
+    <file name="cimg0899.jpg" crc="3895340932" ref="project-website:index:project-overview:project-elements:contrubution:bibliography" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="contrubution" alt=""/>
       <caption webpage="pack" alt=""/>
       <caption webpage="project-website" alt=""/>
+      <caption webpage="bibliography" alt=""/>
     </file>
     <file name="cimg0907.jpg" crc="254045464" seo="true" ref="project-website">
       <caption webpage="project-website" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="project-website:index:project-elements"/>
+    <file name="loading.gif" crc="3815509949" ref="project-website:index"/>
     <file name="the-pack-official-logo-789w.png" crc="3816962407" seo="true" ref="project-website">
       <caption webpage="project-website" alt=""/>
     </file>
@@ -74,15 +79,15 @@
     <file name="u11462.png" crc="178458769" ref="project-website"/>
     <file name="u11462-a.png" crc="178458769" ref="project-website"/>
     <file name="black kc_logo copy 2.png" crc="233348852" seo="true" ref="project-website:pack:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography:animal-welfare-and-protection">
-      <caption webpage="pack" alt=""/>
-      <caption webpage="interview" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-website" alt=""/>
       <caption webpage="project-overview" alt=""/>
       <caption webpage="animal-welfare-and-protection" alt=""/>
       <caption webpage="project-elements" alt=""/>
       <caption webpage="contrubution" alt=""/>
       <caption webpage="questionnaire" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="project-website" alt=""/>
+      <caption webpage="pack" alt=""/>
+      <caption webpage="interview" alt=""/>
       <caption webpage="reflection" alt=""/>
       <caption webpage="bibliography" alt=""/>
       <caption webpage="臺灣動物現況" alt=""/>
@@ -124,7 +129,7 @@
     <file name="info-orange.png" crc="3943227800" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2.jpg" crc="4264374095" ref="index:project-overview:contrubution:bibliography:questionnaire">
+    <file name="2.jpg" crc="4264374095" ref="questionnaire">
       <caption webpage="index" alt=""/>
       <caption webpage="project-overview" alt=""/>
       <caption webpage="bibliography" alt=""/>
@@ -177,8 +182,12 @@
     <file name="12.jpg" crc="3847497773" ref="questionnaire">
       <caption webpage="questionnaire" alt=""/>
     </file>
-    <file name="22.jpg" crc="335463499" seo="true" ref="project-elements">
+    <file name="re.jpg" crc="84009435" seo="true" ref="index:project-overview:project-elements:contrubution:bibliography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
       <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="contrubution" alt=""/>
     </file>
   </folder>
   <file name="project-website.html" crc="4185794119" seo="true" mt="1520557698078" redirect="true"/>
@@ -186,10 +195,10 @@
   <file name="interview.html" crc="4136583305" seo="true" mt="1520558955838" redirect="true"/>
   <file name="questionnaire.html" crc="4068232732" seo="true" mt="1520563757879" redirect="true"/>
   <file name="reflection.html" crc="4124279825" seo="true" mt="1520558955838" redirect="true"/>
-  <file name="index.html" crc="135487748" seo="true" mt="1520560210190" redirect="true"/>
-  <file name="project-overview.html" crc="37073879" seo="true" mt="1520560210190" redirect="true"/>
-  <file name="project-elements.html" crc="4226019160" seo="true" mt="1520563071607" redirect="true"/>
-  <file name="contrubution.html" crc="3367238" seo="true" mt="1520560210190" redirect="true"/>
-  <file name="bibliography.html" crc="99439117" seo="true" mt="1520560210190" redirect="true"/>
+  <file name="index.html" crc="339053657" seo="true" mt="1520564264289" redirect="true"/>
+  <file name="project-overview.html" crc="3828727794" seo="true" mt="1520564264289" redirect="true"/>
+  <file name="project-elements.html" crc="4184254856" seo="true" mt="1520564264289" redirect="true"/>
+  <file name="contrubution.html" crc="4209406574" seo="true" mt="1520564264289" redirect="true"/>
+  <file name="bibliography.html" crc="175866050" seo="true" mt="1520564264289" redirect="true"/>
   <file name="animal-welfare-and-protection.html" crc="292778800" seo="true" mt="1520559206882" redirect="true"/>
 </manifest>
