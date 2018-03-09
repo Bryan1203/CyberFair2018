@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1520581461132">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1520581695954">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_intro.css" crc="4280254894" ref="project-overview:contrubution:bibliography:project-elements:index"/>
@@ -6,7 +6,7 @@
     <file name="master_b-__.css" crc="4087252908" ref="project-website"/>
     <file name="reflection.css" crc="3797920573" ref="reflection"/>
     <file name="project-overview.css" crc="519331430" ref="project-overview"/>
-    <file name="pack.css" crc="3884817331" ref="pack"/>
+    <file name="pack.css" crc="87961736" ref="pack"/>
     <file name="contrubution.css" crc="3763874309" ref="contrubution"/>
     <file name="bibliography.css" crc="4142153507" ref="bibliography"/>
     <file name="questionnaire.css" crc="268895520" ref="questionnaire"/>
@@ -81,15 +81,15 @@
     <file name="u11462-a.png" crc="178458769" ref="project-website"/>
     <file name="black kc_logo copy 2.png" crc="233348852" seo="true" ref="project-website:pack:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography:animal-welfare-and-protection">
       <caption webpage="project-website" alt=""/>
-      <caption webpage="reflection" alt=""/>
-      <caption webpage="interview" alt=""/>
-      <caption webpage="pack" alt=""/>
-      <caption webpage="project-overview" alt=""/>
-      <caption webpage="bibliography" alt=""/>
-      <caption webpage="questionnaire" alt=""/>
       <caption webpage="animal-welfare-and-protection" alt=""/>
+      <caption webpage="interview" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="project-overview" alt=""/>
       <caption webpage="project-elements" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="pack" alt=""/>
+      <caption webpage="reflection" alt=""/>
+      <caption webpage="questionnaire" alt=""/>
       <caption webpage="contrubution" alt=""/>
       <caption webpage="臺灣動物現況" alt=""/>
     </file>
@@ -210,7 +210,7 @@
     </file>
   </folder>
   <file name="project-website.html" crc="4185794119" seo="true" mt="1518939144827" redirect="true"/>
-  <file name="pack.html" crc="204663675" seo="true" mt="1520581309793" redirect="true"/>
+  <file name="pack.html" crc="280172448" seo="true" mt="1520581674967" redirect="true"/>
   <file name="interview.html" crc="3894319420" seo="true" mt="1520579001739" redirect="true"/>
   <file name="questionnaire.html" crc="3913181657" seo="true" mt="1520579002351" redirect="true"/>
   <file name="reflection.html" crc="3974991079" seo="true" mt="1520579001739" redirect="true"/>
