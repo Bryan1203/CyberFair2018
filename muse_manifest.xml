@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1520581358428">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1520581461132">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_intro.css" crc="4280254894" ref="project-overview:contrubution:bibliography:project-elements:index"/>
@@ -14,7 +14,7 @@
     <file name="index.css" crc="530674994" ref="index"/>
     <file name="project-website.css" crc="238098483" ref="project-website"/>
     <file name="interview.css" crc="3797920573" ref="interview"/>
-    <file name="animal-welfare-and-protection.css" crc="103138077" ref="animal-welfare-and-protection"/>
+    <file name="animal-welfare-and-protection.css" crc="4063624215" ref="animal-welfare-and-protection"/>
     <file name="master_c-__.css" crc="151769485" ref="questionnaire"/>
   </folder>
   <folder name="assets">
@@ -81,16 +81,16 @@
     <file name="u11462-a.png" crc="178458769" ref="project-website"/>
     <file name="black kc_logo copy 2.png" crc="233348852" seo="true" ref="project-website:pack:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography:animal-welfare-and-protection">
       <caption webpage="project-website" alt=""/>
-      <caption webpage="animal-welfare-and-protection" alt=""/>
-      <caption webpage="interview" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="project-overview" alt=""/>
-      <caption webpage="project-elements" alt=""/>
-      <caption webpage="bibliography" alt=""/>
-      <caption webpage="pack" alt=""/>
       <caption webpage="reflection" alt=""/>
-      <caption webpage="contrubution" alt=""/>
+      <caption webpage="interview" alt=""/>
+      <caption webpage="pack" alt=""/>
+      <caption webpage="project-overview" alt=""/>
+      <caption webpage="bibliography" alt=""/>
       <caption webpage="questionnaire" alt=""/>
+      <caption webpage="animal-welfare-and-protection" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-elements" alt=""/>
+      <caption webpage="contrubution" alt=""/>
       <caption webpage="臺灣動物現況" alt=""/>
     </file>
     <file name="pack-logo.jpg" crc="3826249156" seo="true" ref="pack:interview:questionnaire:reflection:animal-welfare-and-protection">
@@ -219,5 +219,5 @@
   <file name="project-elements.html" crc="244158464" seo="true" mt="1520580303788" redirect="true"/>
   <file name="contrubution.html" crc="4012086655" seo="true" mt="1520580977854" redirect="true"/>
   <file name="bibliography.html" crc="4268143707" seo="true" mt="1520580353190" redirect="true"/>
-  <file name="animal-welfare-and-protection.html" crc="210563305" seo="true" mt="1520581336447" redirect="true"/>
+  <file name="animal-welfare-and-protection.html" crc="77624088" seo="true" mt="1520581439844" redirect="true"/>
 </manifest>
