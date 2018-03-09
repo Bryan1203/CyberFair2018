@@ -62,9 +62,6 @@
     <image:image>
       <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/pack-logo121x49.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://test.com/interview.html</loc>
