@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1520567307815">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1520567473813">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_intro.css" crc="278365013" ref="project-overview:contrubution:bibliography:project-elements:index"/>
@@ -11,7 +11,7 @@
     <file name="bibliography.css" crc="4235436494" ref="bibliography"/>
     <file name="questionnaire.css" crc="479615632" ref="questionnaire"/>
     <file name="project-elements.css" crc="3933776688" ref="project-elements"/>
-    <file name="index.css" crc="3908110170" ref="index"/>
+    <file name="index.css" crc="4103629597" ref="index"/>
     <file name="project-website.css" crc="238098483" ref="project-website"/>
     <file name="interview.css" crc="4196292368" ref="interview"/>
     <file name="animal-welfare-and-protection.css" crc="307579863" ref="animal-welfare-and-protection"/>
@@ -51,11 +51,11 @@
       <caption webpage="project-website" alt=""/>
     </file>
     <file name="cimg0899.jpg" crc="3895340932" ref="project-website:index:project-overview:project-elements:contrubution:bibliography" seo="true">
-      <caption webpage="pack" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="project-overview" alt=""/>
       <caption webpage="project-elements" alt=""/>
       <caption webpage="contrubution" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="pack" alt=""/>
       <caption webpage="project-website" alt=""/>
       <caption webpage="bibliography" alt=""/>
     </file>
@@ -79,18 +79,18 @@
     <file name="u11462.png" crc="178458769" ref="project-website"/>
     <file name="u11462-a.png" crc="178458769" ref="project-website"/>
     <file name="black kc_logo copy 2.png" crc="233348852" seo="true" ref="project-website:pack:interview:questionnaire:reflection:index:project-overview:project-elements:contrubution:bibliography:animal-welfare-and-protection">
-      <caption webpage="index" alt=""/>
-      <caption webpage="project-website" alt=""/>
+      <caption webpage="pack" alt=""/>
+      <caption webpage="interview" alt=""/>
       <caption webpage="project-overview" alt=""/>
       <caption webpage="animal-welfare-and-protection" alt=""/>
       <caption webpage="project-elements" alt=""/>
       <caption webpage="contrubution" alt=""/>
       <caption webpage="questionnaire" alt=""/>
-      <caption webpage="pack" alt=""/>
-      <caption webpage="interview" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project-website" alt=""/>
       <caption webpage="reflection" alt=""/>
-      <caption webpage="臺灣動物現況" alt=""/>
       <caption webpage="bibliography" alt=""/>
+      <caption webpage="臺灣動物現況" alt=""/>
     </file>
     <file name="pack-logo.jpg" crc="3826249156" seo="true" ref="pack:interview:questionnaire:reflection:animal-welfare-and-protection">
       <caption webpage="pack" alt=""/>
@@ -195,7 +195,7 @@
   <file name="interview.html" crc="4136583305" seo="true" mt="1520558955838" redirect="true"/>
   <file name="questionnaire.html" crc="4017652080" seo="true" mt="1520567287872" redirect="true"/>
   <file name="reflection.html" crc="4124279825" seo="true" mt="1520558955838" redirect="true"/>
-  <file name="index.html" crc="339053657" seo="true" mt="1520564264289" redirect="true"/>
+  <file name="index.html" crc="3992660693" seo="true" mt="1520567461370" redirect="true"/>
   <file name="project-overview.html" crc="3828727794" seo="true" mt="1520564264289" redirect="true"/>
   <file name="project-elements.html" crc="56654122" seo="true" mt="1520567045551" redirect="true"/>
   <file name="contrubution.html" crc="494947780" seo="true" mt="1520564683686" redirect="true"/>
