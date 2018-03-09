@@ -20,9 +20,6 @@
     <image:image>
       <image:loc>http://test.com/images/info-orange.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/2.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://test.com/project-website.html</loc>
@@ -86,9 +83,6 @@
     <image:image>
       <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/2.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://test.com/reflection.html</loc>
@@ -131,9 +125,6 @@
     <image:image>
       <image:loc>http://test.com/images/8q6a7998.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/2.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://test.com/project-elements.html</loc>
@@ -166,9 +157,6 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/8q6a7998.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/2.jpg</image:loc>
     </image:image>
   </url>
   <url>
