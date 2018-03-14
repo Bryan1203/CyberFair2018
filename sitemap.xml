@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test.com/index.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>http://test.com/pack.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -107,7 +107,7 @@
   </url>
   <url>
     <loc>http://test.com/reflection.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,26 +121,32 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/animal-welfare-and-protection.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <loc>http://test.com/contribution.html</loc>
+    <lastmod>2018-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/8q6a7954-crop-u12906.jpg</image:loc>
+      <image:loc>http://test.com/images/re.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2018.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/8q6a79812.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/8q6a7998.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/8q6a80292.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://test.com/project-overview.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -164,31 +170,7 @@
   </url>
   <url>
     <loc>http://test.com/project-elements.html</loc>
-    <lastmod>2018-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/re.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/cfparticipantbanner2018.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/8q6a79812.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/8q6a7998.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/8q6a80292.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://test.com/contrubution.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -212,15 +194,9 @@
   </url>
   <url>
     <loc>http://test.com/bibliography.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/8q6a7981.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/8q6a8029.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
     </image:image>
@@ -231,7 +207,31 @@
       <image:loc>http://test.com/images/cfparticipantbanner2018.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/8q6a79812.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/8q6a7998.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/8q6a80292.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/animal-welfare-and-protection.html</loc>
+    <lastmod>2018-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/black%20kc_logo%20copy%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/pack-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/8q6a7954-crop-u12906.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/cfparticipantbanner2018.jpg</image:loc>
     </image:image>
   </url>
   <url>
